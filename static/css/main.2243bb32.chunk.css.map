@@ -1,0 +1,1 @@
+{"version":3,"sources":["App.scss"],"names":[],"mappings":"AAAA,WACE,wBAAoC,CACrC,GAGC,aAAc","file":"main.2243bb32.chunk.css","sourcesContent":[".mark span {\n  background-color: rgb(170, 213, 228);\n}\n\nli {\n  margin: 20px 0;\n}\n"]}
