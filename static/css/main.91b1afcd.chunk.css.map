@@ -1,0 +1,1 @@
+{"version":3,"sources":["App.scss"],"names":[],"mappings":"AAAA,MACE,wBAAoC,CACrC,GAGC,aAAc,CACf,OAGC,cAAe,CAChB,QAGC,YAAa","file":"main.91b1afcd.chunk.css","sourcesContent":[".mark {\n  background-color: rgb(170, 213, 228);\n}\n\nli {\n  margin: 20px 0;\n}\n\nheader {\n  display: inline;\n}\n\n.hidden {\n  display: none;\n}\n"]}
